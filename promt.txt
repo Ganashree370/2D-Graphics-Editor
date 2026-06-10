@@ -1,0 +1,21 @@
+Write a complete C program for a 2D graphics editor using a 2D character array. Use '*' to represent drawn pixels and '_' for empty spaces.
+
+Requirements:
+
+1. Create functions to draw:
+
+   * Rectangle
+   * Line
+   * Triangle
+   * Circle
+2. Store the picture in a 2D character array.
+3. Create a function to display the picture.
+4. Provide menu-driven operations to:
+
+   * Add objects to the picture
+   * Delete objects from the picture
+   * Modify existing objects in the picture
+5. Use separate functions for each operation.
+6. Include proper input validation and comments.
+7. The code should compile and run correctly using GCC.
+8. Provide the complete source code with sample input and output.
